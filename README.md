@@ -27,3 +27,4 @@ But don't forget that all my work is presentend on my **Data Lab:** <br>
  <img src='https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg' width='60'>
   <img src='https://toppng.com/uploads/preview/businessman-presenter-presenting-business-stats-graphic-presentation-icon-11563044339vk6izpjxf7.png' width='60'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/a/a0/Icon_Mathematical_Plot.svg' width='60'>
+  <img src='https://as2.ftcdn.net/v2/jpg/05/26/84/51/1000_F_526845142_2HDezW65o5jJqyvfpOj4AGQCd8A9GXfu.jpg' width='200'>
